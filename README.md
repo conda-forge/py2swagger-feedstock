@@ -16,7 +16,6 @@ Documentation: https://github.com/Arello-Mobile/py2swagger
 Tool for automated or semi-automated generate a OpenAPI Specification
 (aka Swagger Specification) for Web APIs written with Python and famous frameworks.
 
-
 Current build status
 ====================
 
